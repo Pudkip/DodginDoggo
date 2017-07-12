@@ -3,4 +3,4 @@ Messing around with pygame.
 
 
 
-![Alt text](https://user-images.githubusercontent.com/28498075/28107388-6e1e0f32-669c-11e7-925a-7d5667461f95.gif)
+![Alt text](https://user-images.githubusercontent.com/28498075/28107672-9c30f618-669d-11e7-8a68-8d794a3ff380.gif)
