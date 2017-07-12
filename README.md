@@ -1,2 +1,2 @@
 # DodginDoggo
-Pygame Basics
+Messing around with pygame.
